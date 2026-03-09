@@ -30,10 +30,14 @@ const resumeData = [
 
     { id: 2, headline: "Skills", desc: "Expert in React, JavaScript, and TailwindCSS.",
         mySkills: [
+            { name: "HTML5 & CSS3", level: "Expert" },
+            { name: "TailwindCSS", level: "Expert" },
+            { name: "JavaScript", level: "Expert" },
             { name: "React.js", level: "Expert" },
-            { name: "JavaScript", level: "Advanced" },
-            { name: "TailwindCSS", level: "Advanced" },
-            { name: "HTML5 & CSS3", level: "Expert" }
+            { name: "PHP", level: "Advence" },
+            { name: "Laravel", level: "Advence" },
+            { name: "Photoshop", level: "Advence" },
+            { name: "Illustrator", level: "Advence" },
         ]
      },
 
