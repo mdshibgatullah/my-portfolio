@@ -69,8 +69,8 @@ const resumBtn = [
         <section className='resume' id='resume'>
             <div className="resume-container">
                 <div className="resume-box">
-                    <h2>Why Hire Me?</h2>
-                    <p className="desc">I'm a expert on Frontend Developler</p>
+                    <h2 className=''>Why Hire Me?</h2>
+                    <p className="desc">I'm a expert on Web Development, Graphics Design and SEO</p>
 
 
                 {resumBtn.map((btn) => (
@@ -85,7 +85,7 @@ const resumBtn = [
                 </div>
 
 
-                <div className="resume-box">
+                <div className="resume-box resume-animation" key={active.id}>
                     <MyResume item={active}/>
                 </div>
                

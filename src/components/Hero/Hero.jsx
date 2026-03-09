@@ -9,7 +9,7 @@ const Hero = () => {
            <div className="hero-details">
             <h1>Md. Shibgatullah Sifat</h1>
             <h2>I'm a <span>Web Developer</span></h2>
-            <p>I'm a web developer, with extensive expeiencce for over 1 year. Expertise is to create web desing, frontend development</p>
+            <p>A passionate and motivated Full Stack Web Developer with a strong foundation in PHP, Laravel, and React.js. Experienced in building responsive, user-friendly web applications with a focus on seamless frontend and backend integration. Skilled in translating design concepts from Adobe Photoshop and Illustrator into functional code. Eager to contribute to a professional team and grow within a fast-paced development environment.</p>
             <div className="btn-sci">
                 <a href="#contact" className='btn'>Contact Me</a>
                 <div className="sci">
